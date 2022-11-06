@@ -47,11 +47,17 @@
     body {
         margin-top: 60px;    
     }    
+    section {
+        top: -50px;
+    }
 }
     /* iPad sideways */
 @media only screen and (min-width: 1179px) {  
     #social-icons {
 
+    }
+    section {
+        top: -60px;
     }
 }
 
