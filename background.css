@@ -8,8 +8,8 @@ body {
 }
 
 section {
-    background: linear-gradient(to top, rgba(30, 30, 30, 255), #111 90%);
-    background-color: #111;
+    top: -40px;
+    background: linear-gradient(to top, #FFF, #111);
     position: relative;
     width: 100%;
     height: 100vh;

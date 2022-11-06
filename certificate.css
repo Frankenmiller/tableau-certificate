@@ -1,7 +1,7 @@
 .certificate {
 	position: absolute;
 	z-index: 1;
-	top: 50%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-75%, -50%);
 }
