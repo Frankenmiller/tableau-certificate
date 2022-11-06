@@ -1,0 +1,12 @@
+.certificate {
+	position: absolute;
+	z-index: 1;
+	top: 50%;
+	left: 50%;
+	transform: translate(-75%, -50%);
+}
+
+.certificate #image {
+	width: 150%;
+}
+
